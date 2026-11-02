@@ -31,14 +31,11 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sql&theme=dark" />
 
 ---
-
 ### 📚 Libraries & Utilities
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,sklearn,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,pytorch&theme=dark" />
 
 ---
-
 ### 🧰 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,npm,postman,nodemon&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,npm,postman,nodemon,vscode,jupyter&theme=dark" />
 ---
 
