@@ -30,12 +30,11 @@ Here are some ideas to get you started:
 ### 🗄️ Database & Storage
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sql&theme=dark" />
 
----
 ### 📚 Libraries & Utilities
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sklearn,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" />
 
 ---
 ### 🧰 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,npm,postman,nodemon,vscode,jupyter&theme=dark" />
----
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,npm,postman,vscode&theme=dark" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" />
+
 
